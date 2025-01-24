@@ -1,0 +1,9 @@
+unit-tests:
+  stage: test
+  image: node:18
+  script:
+    - npm ci
+    - npm start & # Lance le serveur en arrière-plan
+    - npx wait-on http://localhost:3000 # Attends que le serveur soit prêt
+    - npm run test:unit:ci # Exécute les tests en mode CI
+
