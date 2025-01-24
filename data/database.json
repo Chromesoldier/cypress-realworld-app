@@ -10029,15 +10029,6 @@
       "transactionId": "b8v79rSvb9A",
       "createdAt": "2023-06-13T02:30:30.394Z",
       "modifiedAt": "2024-03-07T07:43:21.049Z"
-    },
-    {
-      "id": "60sAAEVfhz",
-      "uuid": "a5daddd5-e800-49bd-b0db-003a92a4898a",
-      "content": "This is my comment",
-      "userId": "uBmeaz5pX",
-      "transactionId": "T_gY9e9g_Ua",
-      "createdAt": "2025-01-24T10:18:51.224Z",
-      "modifiedAt": "2025-01-24T10:18:51.224Z"
     }
   ],
   "notifications": [
